@@ -99,3 +99,5 @@ Can adapt to various domains through fine-tuning.
 Conclusion
 
 This project demonstrates how modern NLP techniques can be harnessed to generate topic-specific text using GPT or LSTM. GPT offers state-of-the-art results with minimal training requirements, while LSTM provides a more customizable and lightweight option. By taking user prompts and generating coherent paragraphs, the system showcases the practical capabilities of AI in content creation, automation, and conversational applications. The resulting notebook will serve as a fully functional example of generative text modeling for real-world use.
+
+<img width="493" height="202" alt="Image" src="https://github.com/user-attachments/assets/e1b0b37b-8ecd-46f8-8ce3-7239c46331f3" />
